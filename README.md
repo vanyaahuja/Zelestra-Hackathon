@@ -3,6 +3,7 @@
 To predict the real-time efficiency of solar panels based on weather data using machine learning. The aim was to help optimize solar power usage and maintenance scheduling under varying environmental conditions.
 
 🛠️ Technologies & Methods Used:
+
 Languages: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
 ML Algorithms: Random Forest, Extra Trees, Linear Regression, SVR
